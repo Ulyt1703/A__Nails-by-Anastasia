@@ -27,7 +27,7 @@ html::-webkit-scrollbar-track {
 body{
     background-repeat: no-repeat;
     background-size: contain;
-    -webkit-overflow-x: hidden;
+    overflow-x: hidden;
     background-color: #fff;
 }
 .background-pink{
